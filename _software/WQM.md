@@ -3,7 +3,7 @@ title: "Installation of VASP"
 excerpt: "The Vienna Ab initio Simulation Package (VASP) is a computer program for atomic scale materials modelling, e.g. electronic structure calculations and quantum-mechanical molecular dynamics, from first principles."
 collection: software
 ---
-<img src='https://honghui-alice.github.io/Honghui_Zhang.github.io/images/vasp.jpg' alt='Profile Image' height='400' width='400'><br/>
+<img src='https://honghui-zhang.github.io/images/vasp.jpg' alt='Profile Image' height='400' width='400'><br/>
 
 ## Requirements
 <pre>

@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [CV](https://honghui-alice.github.io/Honghui_Zhang.github.io/files/CV_Honghui_Zhang.pdf)
+Download [CV](https://honghui-zhang.github.io/files/CV_Honghui_Zhang.pdf)
 ======
 
 Education

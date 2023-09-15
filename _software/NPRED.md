@@ -3,7 +3,7 @@ title: "Installation of chemshell"
 excerpt: "ChemShell is a script-based chemistry code focusing on hybrid QM/MM calculations with support for standard quantum chemical or force field calculations."
 collection: software
 ---
-<img src='https://honghui-alice.github.io/Honghui_Zhang.github.io/images/chemshell.png' alt='Profile Image' height='400' width='400'><br/>
+<img src='https://honghui-zhang.github.io/images/chemshell.png' alt='Profile Image' height='400' width='400'><br/>
 
 ## Requirements
 <pre>

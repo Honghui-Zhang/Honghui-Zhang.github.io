@@ -11,9 +11,9 @@ title                    : "Honghui Zhang"
 title_separator          : "-"
 name                     : &name "Honghui Zhang"
 description              : &description "PHD candidate in CUHKSZ, Shenzhen, China"
-url                      : https://honghui-alice.github.io/Honghui_Zhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://honghui-zhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Honghui_Zhang.github.io"
+repository               : "Honghui-Zhang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

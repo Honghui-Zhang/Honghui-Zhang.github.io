@@ -1,6 +1,6 @@
 ---
 title: "The Relationship between Starch Granule Structure and Properties"
-excerpt: "National Natural Science Foundation of China <br/><img src='https://honghui-alice.github.io/Honghui_Zhang.github.io/images/Zhang-Foodchemistry-2020.png' height='600' width='600'>"
+excerpt: "National Natural Science Foundation of China <br/><img src='https://honghui-zhang.github.io/images/Zhang-Foodchemistry-2020.png' height='600' width='600'>"
 collection: projects
 date: 2020-10-15
 ---

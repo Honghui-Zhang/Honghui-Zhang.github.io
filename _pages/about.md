@@ -35,4 +35,4 @@ Wang X., Zhang H., Li W. DNA-binding mechanisms of human and mouse cGAS: a compa
 Zhang H., Jiang X. Revealing the Weak Interaction Mechanism of Crystalline Cellulose Iα by Molecular Dynamics Simulations[J]. Journal of Fiber Bioengineering and Informatics 12(4): 167-178 (2019). [link](http://journal10.magtechjournal.com/Jwk_JoFBaI/EN/abstract/abstract528.shtml#)
 
 ## For more information
-More info about Honghui Zhang can be found in [CV](https://honghui-alice.github.io/Honghui_Zhang.github.io/cv/) or [downloaded CV](https://honghui-alice.github.io/Honghui_Zhang.github.io/files/CV_Honghui_Zhang.pdf).
+More info about Honghui Zhang can be found in [CV](https://honghui-zhang.github.io/cv/) or [downloaded CV](https://honghui-zhang.github.io/files/CV_Honghui_Zhang.pdf).

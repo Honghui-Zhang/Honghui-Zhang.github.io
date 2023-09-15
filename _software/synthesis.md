@@ -3,7 +3,7 @@ title: "Installation of Orca"
 excerpt: "ORCA is a general-purpose quantum chemistry program package that features virtually all modern electronic structure methods (density functional theory, many-body perturbation and coupled cluster theories, and multireference and semiempirical methods)."
 collection: software
 ---
-<img src='https://honghui-alice.github.io/Honghui_Zhang.github.io/images/orca.png' alt='Profile Image' height='500' width='500'><br/>
+<img src='https://honghui-zhang.github.io/images/orca.png' alt='Profile Image' height='500' width='500'><br/>
 
 ## Requirements
 <pre>

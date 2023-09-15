@@ -10,5 +10,5 @@ citation: 'Chen Z.†, Zhang H.† Wade K. et al. The analysis of the effects of
 ---
 This paper analyses the effects of high hydrostatic pressure (HHP) on the molecular conformation of amylose using molecular dynamics simulation at the atomic level.
 
-[Download paper here](https://honghui-alice.github.io/Honghui_Zhang.github.io/files/Zhang-foodchemistry-2020.pdf)
+[Download paper here](https://honghui-zhang.github.io/files/Zhang-foodchemistry-2020.pdf)
 

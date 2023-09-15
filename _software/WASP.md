@@ -3,7 +3,7 @@ title: "Installation of CP2K"
 excerpt: "CP2K is a quantum chemistry and solid state physics software package that can perform atomistic simulations of solid state, liquid, molecular, periodic, material, crystal, and biological systems. "
 collection: software
 ---
-<img src='https://honghui-alice.github.io/Honghui_Zhang.github.io/images/CP2K.png' alt='Profile Image' height='350' width='350'><br/>
+<img src='https://honghui-zhang.github.io/images/CP2K.png' alt='Profile Image' height='350' width='350'><br/>
 
 ## Requirements
 <pre>

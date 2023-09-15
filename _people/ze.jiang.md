@@ -9,4 +9,4 @@ collection: people
 <img src="/images/profile.jpg" alt="Avatar" class="avatar"/>
 
 I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works. I am also an R enthusiast. 
-More info about me can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf).
+More info about me can be found in [CV](https://honghui-zhang.github.io/cv/) or [downloaded CV](https://honghui-zhang.github.io/files/CV_Honghui_Zhang.pdf).

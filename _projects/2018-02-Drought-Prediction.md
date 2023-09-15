@@ -1,6 +1,6 @@
 ---
 title: "Research on mechanism of P4-ATPase catalyzed phospholipid translocation"
-excerpt: "National Natural Science Foundation of China for Young Scholars <br/><img src='https://honghui-alice.github.io/Honghui_Zhang.github.io/images/Zhang-biomedicines-2023.png' height='400' width='500'>"
+excerpt: "National Natural Science Foundation of China for Young Scholars <br/><img src='https://honghui-zhang.github.io/images/Zhang-biomedicines-2023.png' height='400' width='500'>"
 collection: projects
 date: 2023-02-13
 ---
