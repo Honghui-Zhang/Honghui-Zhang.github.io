@@ -33,37 +33,25 @@ Research Highlights
 
 Professional experience
 ======
-* Jun. 2021 - Current: Research Associate
-  * Water Research Centre, University of New South Wales, Sydney, Australia
+* Jan. 2021 - Aug. 2021: Research Assistant
+  * Warshel Institute for Computational Biology, The Chinese University of Hongkong, Shenzhen, China
   * Duties included: 
-	+ The development of Wavelet System Prediction (WASP) for characterizing chaotic system
-    + Hydro-climatological forecasting using CMIP decadal and ACCESS seasonal forecasts
-    + Interannual rainfall forecasting with CMIP6 decadal projections over Australia
-    + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
-  * Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
+	+ Utilize coarse-grained (CG) models to explore the conformational pathways of large-scale protein machines
+    + P4-ATPase catalyzed phospholipid transport system
+    + SARS-Cov2 variant cpmplex
+  * Supervisors: Prof. Chen Bai
 
-* Aug. 2023 - Current: Guest Scientist
-* May 2023 - Jul. 2023: Scientist
-  * Helmholtz-Centre Potsdam - German Research Centre (GFZ), Potsdam, Brandenburg, Germany
+* Jun. 2020 - Dec. 2020: Reseach Assistant
+  * Institute for Advanced Study in Shenzhen University, Shenzhen, China
   * Duties included: 
-	+ Climate-informed Flood Frequency Analysis under a changing climate
-  * Supervisor: Prof. Dr. [Bruno Merz](https://www.gfz-potsdam.de/en/staff/bruno.merz/sec44)
+	+ Comparative study on the DNA-binding mechanisms of human and mouse cGAS through MD and MM/GBSA methodologies.
+  * Supervisor: Prof. Wenjin Li
 
-* Nov. 2015 - Feb. 2018: Research Assistant/Engineer
-  * Tropical Marine Science Institute, National University of Singapore, Singapore
+* Jun. 2019 - May. 2020: Research Assistant
+  * School of Food and Biological Engineering in Shanxi University of Science and Technology, Xian, China
   * Duties included: 
-	+ DSSAT crop modeling of future rice yield in Vietnam under climate change, Singapore-MIT Alliance project.
-	+ Development of index-based drought insurance for sovereign disaster risk transfer, International Finance Corporation, World Bank project. 
-	+ Impact of climate change on inland and coastal flooding in Singapore, Public Utilities Board (PUB) project.
-	+ Effectiveness of ABC Waters design features in residential developments, PUB-TMSI-Monash University project.
-  * Supervisor: Prof. [Shie-Yui Liong](https://scholar.google.com.au/citations?user=PvpaEVUAAAAJ&hl=en)
-
-* Mar. 2015 - Sep. 2015: Intern
-  * Ingenieurgesellschaft Prof. Dr. Sieker mbH, Berlin, Germany
-  * Duties included:
-    + Development of the Time-Area function model based on QGIS environment for stormwater management.
-    + Flood modelling and mitigation of Hafar Al-Batin city in Saudi Arabia.   
-  * Supervisors: Prof. [Frank Molkenthin](https://www.b-tu.de/fg-hydrologie/team/mitarbeiter/apl-prof-frank-molkenthin) and Prof. [Heiko Sieker](https://www.sieker.de/aktuelles/news/heiko-sieker-honorarprofessor-an-der-tu-berlin-143.html?no_cache=1)
+	+Research on the structural and hydrogen bond network transitions of starch including double-helical amylose, amylopectin, and v-amylose.
+  * Supervisor: Prof. Junrong Huang
 
 Awards & honors
 ======

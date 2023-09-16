@@ -1,5 +1,5 @@
 ---
-title: "Installation of chemshell"
+title: "Installation of Chemshell"
 excerpt: "ChemShell is a script-based chemistry code focusing on hybrid QM/MM calculations with support for standard quantum chemical or force field calculations."
 collection: software
 ---
