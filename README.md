@@ -5,10 +5,10 @@ This is Honghui Zhang's personal [homepage](https://honghui-zhang.github.io/).
 I am an PhD candidate and researcher. My research focuses on molecular dynamics and biophysical studies of proteins and nucleic acids. I mainly use statistical tools to carry out my research works.
 
 PROFILE:
-* Highly self-motivated researcher with demonstrated research expertise modeling hydro-climatology processes. 
+* Highly self-motivated researcher with demonstrated research expertise modeling large protein function processes. 
 * Strong interpersonal skills with a good sense of teamwork.
-* Programming Skills: R, C/C++, and Python in both Unix and Windows environments.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
+* Programming Skills: R, Python in both Unix and Windows environments.
+* Rich experience in modeling.
 
 
 ## Selected Journal Publications
