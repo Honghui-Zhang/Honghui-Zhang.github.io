@@ -13,25 +13,23 @@ Download [CV](https://honghui-zhang.github.io/files/CV_Honghui_Zhang.pdf)
 
 Education
 ======
-* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+* Ph.D. candidate in Biological Science, The Chinese University of Hong Kong, Shenzhen, Shenzhen, China, 2021-now
+* M.Sc. in Textile Science and Engineering, Wuhan Textile University, Wuhan, China, 2016-2019
+* B.Eng. in Fasion Design and Engineering, Wuhan Textile University, Wuhan, China, 2011-2015
 
 Research Interests
 ======
-* Hydro-climatological modelling and forecasting (e.g. Wavelet System Prediction)
-* Postprocessing techniques for correcting bias in numerical weather predictions (e.g. Wavelet-based quantile mapping)
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality modelling
-* Hydro-Informatics and water management
+* Computational Biology
+* Biomacromolecules and Molecular Machine
+* Cellulose Interactions
+* Viral Protein Mechanisms in Desease
 
 Research Highlights
 ======
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
-* An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Development of a [postprocessing method](https://doi.org/10.1175/MWR-D-22-0217.1) for correcting bias in Numerical Weather Predictions in the time-frequency domain
-* Quantification of future changes in [drought](https://doi.org/10.1029/2022EF003350) and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
+* The transport mechanism of phospholipid by ATP8A1-CDC50 through an in-depth study.
+* Comprehensive analysis of protein behavior under the membrane environment.
+* Analysis the impact of mutations on receptor binding of SARS-CoV-2 spike protein.
+* Study on the DNA-binding mechanisms of human and mouse cGAS through MD and MM/GBSA methodologies.
 
 Professional experience
 ======
@@ -69,11 +67,13 @@ Professional experience
 
 Awards & honors
 ======
-* 2023, Helmholtz Visiting Researcher Grant by Helmholtz Association of German Research Centers
-* 2021, Postdoctoral Writing Fellowship funded by UNSW
-* 2018, University International Postgraduate Award (UIPA) funded by UNSW
-* 2013, Erasmus Mundus Scholarship Award by European Union
-* 2010, National Undergraduate Mathematical Contest in Modeling (Provincial Award)
+* 2021-now, Gang Hong scholarship for PH. D. student
+* 2018, First-grade scholarship for master's degree
+* 2017, First-grade scholarship for master's degree
+* 2017, 3rd place in Wuhan Textile University Research Forum
+* 2017, “Outstanding Thesis” of the 10th Textile Bioengineering and Informatics Symposium
+* 2016, 3rd place in Wuhan Textile University Research Forum
+* 2016, 1st place in Creative Artistic Expression in Wuhan Textile University Research Forum
 
 Publications
 ======
@@ -99,28 +99,5 @@ Mandarin(Native), English(Fluent)
 
 Skills & Expertise 
 ======
-* Statistical hydrology and water resource engineering.
-* Strong interpersonal skills with a good sense of teamwork. 
-* Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
-
-Service and leadership
-======
-* Contribute to First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
-* Contribute to Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
-* Topic Coordinator for a [Special Issue of Frontiers in Marine Science](https://www.frontiersin.org/research-topics/46827/toxicological-endpoints-and-bioavailability-of-emerging-contaminants-and-their-impacts-on-marine-nut)
-* Reviewer Editor: 
-  + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
-* Reviewer for Scholarly Journals: 
-  + Journal of Hydrology
-  + International Journal of River Basin Management 
-  + Weather and Climate Extremes; Journal of Applied Meteorology and Climatology
-  + Frontiers in Water; Water; Sustainability; International Journal of Environmental Research and Public Health
-
-Membership
-======
-* American Geophysical Union (AGU)
-* European Geosciences Union (EGU) 
-* Asia Oceania Geosciences Society (AOGS)
-* International Commission of Statistical Hydrology (ICSH-IAHS)
-* Modeling and Simulation Society of Australia and New Zealand (MSSANZ)
+* IELTS 6.5 point, possessing a good ability for literacy, can quick browsing of English professional literature and books, speaking ability is not good, but can communicate normally. Own high communication skills. Have the good ability to work with different people, work as teaching assistant and administration assistant.
+* Always in Linux, Python and R; used SPSS, MATLAB, in master study; Proficient in research software such as Amber, GROMACS, Gaussian, VMD and Pymol; Using GitHub or Visual Studio Code every day.
