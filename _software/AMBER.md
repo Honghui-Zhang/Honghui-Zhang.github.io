@@ -55,10 +55,10 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$AMBERHOME/lib
 ## GPU_MPI Edition Installation of AMBER20 Requirements
 <pre>
 Dependencies:
-	fftw, gcc, cuda, mpi
+	fftw, gcc, intel, cuda, mpi
 	
 Suggests: 
-    fftw/3.3.8, gcc/8.3.0, cuda/10.1, mpi/openmpi/4.0.5_8.3.0gcc
+    fftw/3.3.8, gcc/8.3.0, intel/2019.5, cuda/10.1, mpi/openmpi/4.0.5_8.3.0gcc
 </pre>
 
 ## Installation
