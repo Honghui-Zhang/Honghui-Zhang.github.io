@@ -27,13 +27,11 @@ You can unzip the installation files:
 tar xvf AmberTools20.tar.bz2
 tar xvf Amber20.tar.bz2
 cd amber20_src
-
 ```
 now we can set the AMBERHOME environment variable with:
 
 ```r
 export AMBERHOME=/soft/amber20_src
-
 ```
 
 then inshall Amber with: 
@@ -47,14 +45,12 @@ make test
 source amber.sh
 make install
 make test
-
 ```
 ## Add environment variables to the bashrc file
 ``` r
 export AMBERHOME=/soft/amber20_src
 source /soft/amber20_src/amber.sh
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$AMBERHOME/lib
-
 ```
 ## GPU_MPI Edition Installation of AMBER20 Requirements
 <pre>
@@ -69,7 +65,6 @@ Suggests:
 You can install load the essential dependencies with:
 ```r
 module load fftw/3.3.8 gcc/8.3.0 intel/2019.5 cuda/10.1 mpi/openmpi/4.0.5_8.3.0gcc
-
 ```
 
 
@@ -80,7 +75,6 @@ then inshall Amber with:
 source amber.sh
 make install
 make test
-
 ```
 ## Citations
 [1] D.A. Case, K. Belfon, I.Y. Ben-Shalom, S.R. Brozell, D.S. Cerutti, T.E. Cheatham, III, V.W.D. Cruzeiro, T.A. Darden, R.E. Duke, G. Giambasu, M.K. Gilson, H. Gohlke, A.W. Goetz,R Harris, S. Izadi, K. Kasavajhala, A. Kovalenko, R. Krasny, T. Kurtzman, T.S. Lee, S. LeGrand, P. Li, C. Lin, J. Liu, T. Luchko, R. Luo, V. Man, K.M. Merz, Y. Miao, O. Mikhailovskii, G. Monard, H. Nguyen, A. Onufriev, F. Pan, S. Pantano, R. Qi, D.R. Roe, A. Roitberg, C. Sagui, S. Schott-Verdugo, J. Shen, C.L. Simmerling, N. Skrynnikov, J. Smith, J. Swails, R.C. Walker, J. Wang, L. Wilson, R.M. Wolf, X. Wu, D.M. York and P.A. Kollman (2020), AMBER 2020, University of California, San Francisco.
