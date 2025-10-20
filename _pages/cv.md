@@ -13,7 +13,7 @@ Download [CV](https://honghui-zhang.github.io/files/CV_Honghui_Zhang.pdf)
 
 Education
 ======
-* Ph.D. candidate in Biological Science, The Chinese University of Hong Kong, Shenzhen, Shenzhen, China, 2021-now
+* Ph.D. in Biological Science, The Chinese University of Hong Kong, Shenzhen, Shenzhen, China, 2021-2025
 * M.Sc. in Textile Science and Engineering, Wuhan Textile University, Wuhan, China, 2016-2019
 * B.Eng. in Fasion Design and Engineering, Wuhan Textile University, Wuhan, China, 2011-2015
 
@@ -26,6 +26,7 @@ Research Interests
 
 Research Highlights
 ======
+* Computational Studies of Regio- and Enantioselective Oxidation of Free Fatty Acids by human P450s
 * The transport mechanism of phospholipid by ATP8A1-CDC50 through an in-depth study.
 * Comprehensive analysis of protein behavior under the membrane environment.
 * Analysis the impact of mutations on receptor binding of SARS-CoV-2 spike protein.
@@ -55,7 +56,8 @@ Professional experience
 
 Awards & honors
 ======
-* 2021-now, Gang Hong scholarship for PH. D. student
+* 2025, Outstanding graduate student award
+* 2021-2025, Gang Hong scholarship for PH. D. student
 * 2018, First-grade scholarship for master's degree
 * 2017, First-grade scholarship for master's degree
 * 2017, 3rd place in Wuhan Textile University Research Forum
@@ -87,5 +89,5 @@ Mandarin(Native), English(Fluent)
 
 Skills & Expertise 
 ======
-* IELTS 6.5 point, possessing a good ability for literacy, can quick browsing of English professional literature and books, speaking ability is not good, but can communicate normally. Own high communication skills. Have the good ability to work with different people, work as teaching assistant and administration assistant.
-* Always in Linux, Python and R; used SPSS, MATLAB, in master study; Proficient in research software such as Amber, GROMACS, Gaussian, VMD and Pymol; Using GitHub or Visual Studio Code every day.
+* IELTS 6.5 point, possessing a good ability for literacy, can quick browsing of English professional literature and books, speaking ability is not good, but can communicate normally. Own high communication skills. Have the good ability to work with different people.
+* Always in Linux, Python and R; used SPSS, MATLAB, in master study; Proficient in research software such as Amber, GROMACS, Gaussian, VMD and Pymol; Using GitHub or Visual Studio Code.
