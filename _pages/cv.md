@@ -26,7 +26,7 @@ Research Interests
 
 Research Highlights
 ======
-* Computational Studies of Regio- and Enantioselective Oxidation of Free Fatty Acids by human P450s
+* Computational studies of regio- and enantioselective oxidation of free fatty acids by human P450s
 * The transport mechanism of phospholipid by ATP8A1-CDC50 through an in-depth study.
 * Comprehensive analysis of protein behavior under the membrane environment.
 * Analysis the impact of mutations on receptor binding of SARS-CoV-2 spike protein.
