@@ -20,7 +20,7 @@ Honghui Zhang is an accomplished researcher with a significant record in the fie
 * Viral Protein Mechanisms in Disease
 
 ## Selected Journal Publications
-Zhang, H., Hirao, H., Mechanism of Regio- and Enantioselective Hydroxylation of Arachidonic Acid Catalyzed by Human CYP2E1: A Combined Molecular Dynamic and Quantum Mechanics/Molecular Mechanics Study[J]. Journal of Chemical Information and Modeling, 65(4), 2080-2092 (2025). [link]
+Zhang, H., Hirao, H., Mechanism of Regio- and Enantioselective Hydroxylation of Arachidonic Acid Catalyzed by Human CYP2E1: A Combined Molecular Dynamic and Quantum Mechanics/Molecular Mechanics Study[J]. Journal of Chemical Information and Modeling, 65(4), 2080-2092 (2025). [link](https://doi.org/10.1021/acs.jcim.5c00115)
 
 Zhang, H., Zhang, Y., Xu, P. et al. Exploring the Phospholipid Transport Mechanism of ATP8A1-CDC50[J]. Biomedicines, 11(2), 546 (2023). [link](https://doi.org/10.3390/biomedicines11020546)
 
