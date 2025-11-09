@@ -11,4 +11,3 @@ location: "Wuhan, China"
 * Position: Teacher 
 * Role: Teaching
 * Number of students: ~100
-* Course Profile: [Download](https://vm.civeng.unsw.edu.au/courseprofiles/2019/2019-T3_CVEN9625x8224.pdf)
