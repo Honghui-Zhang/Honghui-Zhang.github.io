@@ -7,7 +7,7 @@ venue: "School of Life and Health Sciences, School of Medicine, The Chinese Univ
 date: 2022-09-25
 location: "Shenzhen, China"
 ---
-* Teaching period: T2, 2021
+* Teaching period: T2, 2022
 * Position: Teaching Assistant 
 * Role: Demonstrator and Tutor
 * Number of students: 15
