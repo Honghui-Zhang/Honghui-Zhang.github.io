@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-T2-WRE_UNSW
 venue: "School of Life and Health Sciences, School of Medicine, The Chinese University of Hong Kong (Shenzhen)"
-date: 2023-02-25
+date: 2022-09-25
 location: "Shenzhen, China"
 ---
 * Teaching period: T2, 2021
