@@ -1,5 +1,5 @@
 ---
-title: "PHM2010: Pharmaceutical Physical Chemistry"
+title: "BSC6012: Topics in Computer-Aided Drug Design"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-T1-WRE_UNSW
