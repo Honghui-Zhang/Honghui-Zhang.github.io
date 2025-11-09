@@ -13,7 +13,7 @@ Download [CV](https://honghui-zhang.github.io/files/CV_Honghui_Zhang.pdf)
 
 Education
 ======
-* Ph.D. in Biological Science, The Chinese University of Hong Kong, Shenzhen, Shenzhen, China, 2021-2025 tutor: Hajime Hirao [link](https://med.cuhk.edu.cn/en/teacher/165)
+* Ph.D. in Biological Science, The Chinese University of Hong Kong, Shenzhen, Shenzhen, China, 2021-2025 Tutor:[Hajime Hirao](https://med.cuhk.edu.cn/en/teacher/165)
 * M.Sc. in Textile Science and Engineering, Wuhan Textile University, Wuhan, China, 2016-2019
 * B.Eng. in Fasion Design and Engineering, Wuhan Textile University, Wuhan, China, 2011-2015
 
