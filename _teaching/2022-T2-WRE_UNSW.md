@@ -2,7 +2,7 @@
 title: "BIM3018: Biophysical Chemistry"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-T3-WRE_UNSW
+permalink: /teaching/2022-T2-WRE_UNSW
 venue: "School of Life and Health Sciences, School of Medicine, The Chinese University of Hong Kong (Shenzhen)"
 date: 2023-02-25
 location: "Shenzhen, China"
@@ -11,4 +11,5 @@ location: "Shenzhen, China"
 * Position: Teaching Assistant 
 * Role: Demonstrator and Tutor
 * Number of students: 45
-* Course Profile: [Download](https://vm.civeng.unsw.edu.au/courseprofiles/2019/2019-T3_CVEN9625x8224.pdf)
+* Student evaluation (overall): [5.79/6]. [Teaching Evaluation Report](https://honghui-zhang.github.io/files/BIO2101_2022-T1-WRE_UNSW_Eva.pdf)
+* Course Profile: [Download](https://honghui-zhang.github.io/files/BIO2101_2022-T1-WRE_UNSW.pdf)
