@@ -14,6 +14,7 @@ This is Honghui Zhang's personal homepage.
 Honghui Zhang is an accomplished researcher with a significant record in the field of molecular dynamics and biophysical studies of proteins and nucleic acids. 
 
 <b>Research Highlights:</b>
+* AI-driven drug discovery
 * Computational Biology
 * Biomacromolecules and Molecular Machaine
 * Cellulose Interactions
